@@ -1,0 +1,14 @@
+{
+  "name": "machfive-skills",
+  "owner": {
+    "name": "Bluecraft-AI",
+    "url": "https://github.com/Bluecraft-AI"
+  },
+  "plugins": [
+    {
+      "name": "cold-email",
+      "source": "./cold-email",
+      "description": "Generate hyper-personalized cold email sequences using the MachFive API"
+    }
+  ]
+}

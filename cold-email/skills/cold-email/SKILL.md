@@ -1,11 +1,7 @@
 ---
 name: cold-email
 description: Generate hyper-personalized cold email sequences using AI. Turn lead data into high-converting outreach campaigns.
-metadata:
-  clawdbot:
-    requires:
-      env:
-        - MACHFIVE_API_KEY
+license: MIT
 ---
 
 # MachFive - AI Cold Email Generator

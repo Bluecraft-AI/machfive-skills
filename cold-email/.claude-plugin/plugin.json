@@ -1,0 +1,13 @@
+{
+  "name": "cold-email",
+  "version": "1.0.0",
+  "description": "Generate hyper-personalized cold email sequences using the MachFive API. Real API integration — not prompt templates.",
+  "author": {
+    "name": "Bluecraft-AI",
+    "url": "https://github.com/Bluecraft-AI"
+  },
+  "homepage": "https://machfive.io",
+  "repository": "https://github.com/Bluecraft-AI/machfive-skills",
+  "license": "MIT",
+  "keywords": ["cold-email", "sales", "outreach", "machfive"]
+}
